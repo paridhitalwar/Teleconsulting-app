@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6a99b215-0409-49c4-8697-5fcd8429cdb1/resourceGroups/omms-interns/providers/Microsoft.Web/sites/OptumCure",
+    "appService.deploySubpath": "."
+}
